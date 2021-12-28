@@ -1,0 +1,8 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Added body_class() in header.php file.
+
+Version 1.1.1
+i) Theme updated with many changes.
